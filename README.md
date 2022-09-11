@@ -1,12 +1,13 @@
-<h1>
+<h1>About this Repository</h1>
 This is a skeleton app built with NodeJS meant to help students and hobbyists get a web app up and running quick.
+<br />
 It includes an Express server with some barebones code to modify and/or build on.
-</h1>
 
 
 <h1>What should I to do prior to attempting to use this?</h1>
-1. Install NodeJS
-2. Be familiar with javascript, html, and REST api
+<ol>
+<li>Install NodeJS</li>
+<li>Be familiar with javascript, html, and REST api</li>
 
 <h1>How do I run this thing?</h1>
 <ol>
